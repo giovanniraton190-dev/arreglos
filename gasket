@@ -67,3 +67,4 @@ def draw_matrix(input_matrix, symbol="*"):
 print()
 draw_matrix(matrix)
 
+
