@@ -66,3 +66,4 @@ def draw_matrix(input_matrix, symbol="*"):
 # Dibujar triangulo de Sierpinski
 print()
 draw_matrix(matrix)
+
